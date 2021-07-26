@@ -40,4 +40,3 @@ if errorlevel 1 (
 )
 
 echo However, Firefox version %FirefoxVersion% is already installed.
-pause
